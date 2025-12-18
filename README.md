@@ -18,8 +18,8 @@
 
 ### 📁 Cấu trúc thư mục
 
-- `BaiTap/`: Các bài tập theo tuần hoặc theo chủ đề (rendering, input, collision, v.v.)
-- `BaiThi/`: Dự án cuối kỳ – xây dựng một game 2D hoàn chỉnh bằng engine tự phát triển
+- `Exercise/`: Các bài tập theo tuần hoặc theo chủ đề (rendering, input, collision, v.v.)
+- `Exam/`: Dự án cuối kỳ – xây dựng một game 2D hoàn chỉnh bằng engine tự phát triển
    + `Assets/`: Hình ảnh, âm thanh, sprite, và các tài nguyên dùng trong game
 
 ---
